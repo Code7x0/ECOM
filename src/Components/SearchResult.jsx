@@ -32,6 +32,36 @@ const SearchResultsPage = ({ searchQuery, addToCart, removeFromCart, cart }) => 
       image: 'https://images.unsplash.com/photo-1551028719-00167b16eac5',
       sizes: ['S', 'M', 'L', 'XL'],
       colors: ['blue', 'black']
+    },
+    {
+      id: 4,
+      name: 'Classic Cotton Crewneck T-Shirt',
+      price: 24.99,
+      rating: 4.6,
+      description: 'Soft and breathable 100% cotton crewneck T-shirt, perfect for everyday wear.',
+      image: 'https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d',
+      sizes: ['S', 'M', 'L', 'XL'],
+      colors: ['white', 'black', 'gray']
+    },
+    {
+      id: 5,
+      name: 'Graphic Print Oversized T-Shirt',
+      price: 34.99,
+      rating: 4.7,
+      description: 'Trendy oversized T-shirt with a bold graphic print, made from premium cotton blend.',
+      image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990',
+      sizes: ['M', 'L', 'XL'],
+      colors: ['navy blue', 'olive green', 'mustard yellow']
+    },
+    {
+      id: 6,
+      name: 'Slim Fit V-Neck T-Shirt',
+      price: 29.99,
+      rating: 4.5,
+      description: 'Sleek and stylish slim-fit V-neck T-shirt, ideal for a modern look.',
+      image: 'https://images.unsplash.com/photo-1602810319428-019690571b5b',
+      sizes: ['S', 'M', 'L'],
+      colors: ['charcoal', 'burgundy', 'light blue']
     }
   ]);
 
