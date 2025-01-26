@@ -1,8 +1,28 @@
-# React + Vite
+# ECOM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
+This is a modern e-commerce website built using React.js and Tailwind CSS. The project features a responsive design, product browsing, cart management, and a seamless checkout process.
 
-Currently, two official plugins are available:
+Features
+Home Page: Displays featured products and collections
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Product Search: Search and filter products by category, price, size, and color
+
+Shopping Cart: Add/remove products, update quantities
+
+Checkout: Secure checkout process with order summary
+
+User Authentication: Sign-in with mobile number and password
+
+Responsive Design: Optimized for all screen sizes
+
+Technologies Used
+Frontend: React.js, Tailwind CSS
+
+State Management: React Hooks (useState, useContext)
+
+Routing: React Router (for page navigation)
+
+Icons: Lucide React Icons
+
+Form Handling: React controlled components
