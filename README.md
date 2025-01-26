@@ -1,50 +1,5 @@
 # ECOM
-<!DOCTYPE html>
-<html>
-<head>
-  <title>E-Commerce Website Documentation</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      color: #24292e;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #24292e;
-      margin-top: 24px;
-      margin-bottom: 16px;
-    }
-    code {
-      background-color: #f6f8fa;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-    }
-    pre {
-      background-color: #f6f8fa;
-      padding: 16px;
-      border-radius: 6px;
-      overflow: auto;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 6px;
-      margin: 16px 0;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+ 
 
 <h1>E-Commerce Website</h1>
 
@@ -104,12 +59,7 @@ src/
 └── index.js
 </pre>
 
-<h2>Configuration</h2>
-<p>Create a <code>.env</code> file in the root directory:</p>
-<pre>
-REACT_APP_API_URL=your_api_url
-REACT_APP_STRIPE_KEY=your_stripe_key
-</pre>
+ 
 
 <h2>Available Scripts</h2>
 <ul>
@@ -121,14 +71,7 @@ REACT_APP_STRIPE_KEY=your_stripe_key
 
  
 
-<h2>Contributing</h2>
-<ol>
-  <li>Fork the repository</li>
-  <li>Create your feature branch (<code>git checkout -b feature/YourFeatureName</code>)</li>
-  <li>Commit your changes (<code>git commit -m 'Add some feature'</code>)</li>
-  <li>Push to the branch (<code>git push origin feature/YourFeatureName</code>)</li>
-  <li>Open a pull request</li>
-</ol>
+ 
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
