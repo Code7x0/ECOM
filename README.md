@@ -11,7 +11,6 @@
   <li>🔍 <strong>Product Search</strong>: Filter by category, price, size, and color</li>
   <li>🛒 <strong>Shopping Cart</strong>: Add/remove products, update quantities</li>
   <li>💳 <strong>Checkout</strong>: Secure payment process with order summary</li>
-  <li>🔐 <strong>User Authentication</strong>: Sign-in with mobile number and password</li>
   <li>📱 <strong>Responsive Design</strong>: Optimized for all devices</li>
 </ul>
 
@@ -77,7 +76,7 @@ src/
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Live Demo</h2>
-<p><a href="#">View Live Demo</a></p>
+<p><a href="https://vintshirt.netlify.app/">View Live Demo</a></p>
 
 </body>
 </html>
